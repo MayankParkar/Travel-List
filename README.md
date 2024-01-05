@@ -43,10 +43,9 @@ npm start
 
 2. Open `http://localhost:3000` in your browser.
 
-**Built With**
 
-- React
-- TypeScript (optional)
-- State management library (e.g., Redux, Context API)
-- UI component library (e.g., Material-UI, Bootstrap)
-- Routing library (e.g., React Router)
+
+https://github.com/MayankParkar/Travel-List/assets/40822344/a53c38f3-72f8-451a-a722-a3b22049b7c6
+
+
+
