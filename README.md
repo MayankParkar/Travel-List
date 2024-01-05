@@ -2,7 +2,7 @@
 
 **Explore and plan your dream destinations with this handy React application!**
 
-**## Features**
+** Features**
 
 - Create and manage a list of travel destinations
 - Add details for each destination, including:
