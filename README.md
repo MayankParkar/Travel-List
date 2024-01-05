@@ -13,7 +13,7 @@
 - User-friendly interface with visually appealing design
 - Responsive design for optimal viewing on different devices
 
-**## Installation**
+**Installation**
 
 1. Clone the repository:
 
@@ -33,7 +33,7 @@ cd react-travel-list
 npm install
 ```
 
-**## Running the App**
+**Running the App**
 
 1. Start the development server:
 
@@ -43,7 +43,7 @@ npm start
 
 2. Open `http://localhost:3000` in your browser.
 
-**## Built With**
+**Built With**
 
 - React
 - TypeScript (optional)
