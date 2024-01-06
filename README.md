@@ -4,7 +4,7 @@
 
 **Features**
 
-- Create and manage a list of travel destinations
+- Create and manage a list of travel items
 - Add details for each destination, including:
     - Name
     - Number of Items
