@@ -10,7 +10,7 @@
     - Number of Items
 - Mark items as visited or planned
 - Search and filter items based on various criteria
-- User-friendly interface with visually appealing design
+- User-friendly interface with a visually appealing design
 - Responsive design for optimal viewing on different devices
 
 **Installation**
@@ -24,7 +24,7 @@ git clone https://github.com/<your-username>/Travel-List.git
 2. Navigate to the project directory:
 
 ```bash
-cd react-travel-list
+cd Travel-List
 ```
 
 3. Install dependencies:
